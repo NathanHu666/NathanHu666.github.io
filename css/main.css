@@ -6,7 +6,7 @@
     /*min-height: 160vh;*/
     /*background-size: cover;*/
     color:#fff;
-    background-size:1440px;
+    background-size:1920px;
     background-color: #000000;
     /*margin: 0;*/
     /*padding: 0;*/
@@ -14,13 +14,13 @@
     /*background: url(../img/bg_big.png)  no-repeat top scroll;*/
     /*background-size: cover;*/
 
-    /*background-position: center 0;*/
-    /*background-repeat: no-repeat;*/
-    /*background-attachment: fixed;*/
-    /*-webkit-background-size: cover;*/
-    /*-o-background-size: cover;*/
-    /*-moz-background-size: cover;*/
-    /*-ms-background-size: cover;*/
+    /* background-position: center 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover; */
 
 
 }
