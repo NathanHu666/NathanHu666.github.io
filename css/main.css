@@ -42,7 +42,15 @@
         zoom: 1;
     }
 }
+@media (max-width: 1366px) {
+    body {
+        zoom: calc(1366 / 1440);
+    }
 
+    .tronpg {
+        zoom: 1;
+    }
+}
 @media (max-width: 1466px) {
     body {
         zoom: calc(1446 / 1920);
@@ -1202,7 +1210,7 @@ a:focus {
 .redline.jsx-532264764 {
     width: 40px;
     height: 4px;
-    background-color: #e60815;
+    background-color: #c62734;
     display: block;
 }
 
